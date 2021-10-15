@@ -2,9 +2,9 @@
 
 A simple web app that will divide a given list of people into fair teams
 
-### Planning
+## Planning
 
-#### Wireframe
+### Wireframe
 
 ![Input wireframe](images/input-half.png)
 ![Output wireframe](images/output-half.png)
